@@ -1,7 +1,7 @@
 # Sisteme-distribuite
 
 ## Membrii echipei
-- Salnicean Flaviu-Marian
+Salnicean Flaviu-Marian
 
 ## Compilare
 ```bash
